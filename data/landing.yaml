@@ -43,7 +43,7 @@ hero:
   ctaButton:
     icon: timer_10_alt_1 #sports_motorsports
     btnText: "Actualité"
-    url: "/docs/prochaines_courses/"
+    url: "/goldenhawk/docs/prochaines_courses/"
   cta2Button:
     icon: chat
     btnText: "Discord"
