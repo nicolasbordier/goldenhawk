@@ -16,7 +16,7 @@ hero:
     path: "images"
     filename:
       desktop: "bg11.png"
-      mobile: "gradient-mobile.webp"
+      mobile: "bg11.png"
 
   badge:
     text: Iracing
