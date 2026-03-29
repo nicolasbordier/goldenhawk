@@ -1,6 +1,6 @@
 ---
-weight: 600
-title: "Nurburgring Endurance"
+weight: 500
+title: "Production Car Challenge"
 description: ""
 icon: "article"
 date: "2025-12-21T13:34:21+01:00"
