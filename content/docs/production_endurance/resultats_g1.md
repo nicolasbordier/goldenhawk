@@ -9,13 +9,14 @@ draft: false
 toc: true
 ---
 
-{{< alert context="info" text="Classement Mondial : `P19` *(150 pts)*" />}}
+{{< alert context="info" text="Classement Mondial : `P10` *(223 pts)*" />}}
 
 {{< table "table-responsive table-striped table-s table-borderless"  >}}
 | Date         | Circuit                | Voiture     | Pilote(s)          | Position  | Points    | Meil.Tour  |
 |--------------|------------------------|-------------|--------------------|-----------|-----------|------------|
 | `20/03/26`   | `Sebring`              |  `M2`       | `Steve & Nicolas`  | `P8`      | `78`      | `1:17.763` |
 | `27/03/26`   | `Oulton`               |  `M2`       | `Nicolas`          | `P5`      | `72`      | `1:46.928` |
+| `03/04/26`   | `St Petersburg`        |  `M2`       | `Steve & Nicolas`  | `P6`      | `73`      | `1:21.279` |
 {{< /table >}}
 
 
