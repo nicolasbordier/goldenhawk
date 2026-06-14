@@ -11,6 +11,22 @@ toc: true
 
 # 
 
+## Saison `2026-S2`
+
+Classement Mondial : 
+
+- `P9` série Production Endurance Challenge
+- `P2` série Production Endurance Challenge (division 2)
+
+Récapitulatif de la saison : 
+
+En attente du récap
+
+Certificat obtenu : 
+
+![certificat](images/certicat_steve_2026s2_production_endurance.png)
+
+
 ## Saison `2026-S1`
 
 Classement Mondial : 
