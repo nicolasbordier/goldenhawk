@@ -43,7 +43,7 @@ hero:
   ctaButton:
     icon: timer_10_alt_1 #sports_motorsports
     btnText: "Actualité"
-    url: "/goldenhawk/docs/prochaines_courses/"
+    url: "/goldenhawk/docs/imsa_endurance_challenge/resultats_g1/"
   cta2Button:
     icon: chat
     btnText: "Discord"
