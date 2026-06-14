@@ -1,6 +1,6 @@
 ---
-weight: 600
-title: "Production Endurance Challenge"
+weight: 200
+title: "IMSA Endurance Challenge"
 description: ""
 icon: "article"
 date: "2025-12-21T13:34:21+01:00"
