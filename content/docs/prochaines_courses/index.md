@@ -10,13 +10,6 @@ toc: false
 ---
 ## 
 
-### Légende :
-{{< alert context="light" text="**PEC** : Production Endurance Challenge" />}}
-{{< alert context="light" text="**GET** : Global Endurance Tour" />}}
-
-## 
-
-
 ### Calendrier des prochaines courses
 
 {{< table "table-responsive table-xs table-borderless"  >}}
