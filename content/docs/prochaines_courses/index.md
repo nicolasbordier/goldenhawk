@@ -22,9 +22,8 @@ toc: false
 {{< table "table-responsive table-xs table-borderless"  >}}
 |             |         |
 |-------------|---------|
-| `Avril`     | ![avril](images/avril.png) |
-| `Mai`       | ![mai](images/mai.png)     |
-| `Juin`      | ![juin](images/juin.png)   |
+| `Juillet`   | ![juillet](images/juillet.png) |
+| `Aout`      | ![aout](images/aout.png)     |
 {{< /table >}}
 
 
